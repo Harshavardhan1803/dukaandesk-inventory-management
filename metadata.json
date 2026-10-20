@@ -1,0 +1,6 @@
+{
+  "name": "DukaanDesk",
+  "description": "A clean, responsive inventory and sales management system for small retail shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
